@@ -1,0 +1,47 @@
+/* CornerMan sports: philosophy, technique cue and skill checklist per sport. */
+(function(CM){
+"use strict";
+CM.SP=[
+{id:'bodybuilding',name:'Bodybuilding',color:'#E8743B',tag:'Muscle growth',
+ phil:'Muscle grows when you do enough hard sets, close to failure, and add a little load or a rep each week. Train every muscle about twice a week, eat enough protein and sleep.',
+ cue:'Lower every rep for 2 to 3 seconds and stop each work set 1 to 3 reps short of failure.',
+ check:['Logged every set so next week has a number to beat','Trained each muscle group about twice this week','Hit my protein target on 5 of 7 days','Took a photo or tape measurement this fortnight','Took a deload week when joints or sleep suffered']},
+{id:'weightloss',name:'Weight loss',color:'#2FB380',tag:'Fat loss',
+ phil:'Fat loss comes from a modest calorie deficit you can hold for months. Lift to keep muscle, walk every day, eat plenty of protein and vegetables, and skip crash diets and extreme restriction.',
+ cue:'Walk daily, lift two or three days a week, and keep the deficit small enough that training still feels good.',
+ check:['Walked every day this week','Lifted at least twice this week','Ate protein at every meal','Slept 7 hours on most nights','Weighed in on the same day and time as last week']},
+{id:'mma',name:'MMA',color:'#E0453A',tag:'Mixed martial arts',
+ phil:'MMA blends striking, wrestling and grappling. Strength and conditioning should support practice, never replace it: hard work on practice-light days, easy aerobic work to recover, and one full rest day.',
+ cue:'Keep your hands up and chin tucked on every strike, and change levels before you shoot.',
+ check:['Hit striking rounds with clean defense','Drilled takedown entries on both sides','Did one live round at a controlled pace','Did an easy aerobic session between hard days','Took one full rest day']},
+{id:'bjj',name:'Jiu-jitsu',color:'#4C7DFF',tag:'Brazilian jiu-jitsu',
+ phil:'Learn jiu-jitsu as connected systems: a position, the ways out of it, and the next position. Drill one chain until it is automatic, test it in positional sparring, then add the next link. Build grip, neck, hips and core to support it.',
+ cue:'Win the grip and hip position first. Use frames before force and break your opponent\'s posture before attacking.',
+ check:['Retained guard against a standing pass for a full round','Hit a technical stand-up on both sides','Passed from a knee slide to side control cleanly','Held back control for 30 seconds against escapes','Finished an armbar from mount in live rolling']},
+{id:'boxing',name:'Boxing',color:'#D6497A',tag:'Boxing',
+ phil:'Boxing is balance, distance and timing. Build a sound stance and jab first, then combinations, defense and footwork. Round-based conditioning mirrors the fight clock.',
+ cue:'Stay light on the balls of your feet, turn the hip with each punch and return the hand to your chin.',
+ check:['Landed the jab from the right distance without leaning in','Threw a 1-2-slip-2 combination smoothly','Moved off the line after punching','Completed 6 bag or shadow rounds at a steady pace','Jumped rope for 3 minutes without breaks']},
+{id:'wrestling',name:'Wrestling',color:'#8E6BE0',tag:'Wrestling',
+ phil:'Wrestling is position, leverage and relentless pace. Master stance, level changes and hand fighting, then chain shots into finishes. Strength work should build legs, hips, neck and grip.',
+ cue:'Bend at the knees, keep your head up and hips under you, and finish with your head in the right place.',
+ check:['Drilled stance and motion for 5 minutes','Hit a clean penetration step and shot','Sprawled and returned to stance fast','Chained a single leg to a finish with a partner','Got through a 3-minute hard round with good form']},
+{id:'running',name:'Running',color:'#18A8C9',tag:'Running',
+ phil:'Most running should be easy enough to hold a conversation. Add one harder session a week, one long run and strength work for hips and calves. Raise weekly mileage slowly and take easy weeks.',
+ cue:'Run tall with relaxed shoulders, land under your hips and keep easy days truly easy.',
+ check:['Ran every easy run at conversational pace','Did one quality session (tempo or intervals)','Raised weekly mileage by no more than about 10 percent','Did calf and hip strength work twice','Took an easy week after three hard ones']},
+{id:'powerlifting',name:'Powerlifting',color:'#C99A1E',tag:'Strength',
+ phil:'The squat, bench press and deadlift are skills as much as strength. Practice them often with crisp technique, build with planned weekly progress, and keep most sets a rep or two short of failure.',
+ cue:'Brace before every rep, keep the bar close to you and stay tight from start to finish.',
+ check:['Top squat set with solid bracing','Bench with a paused rep at the chest','Deadlift off the floor without hips shooting up','Logged every top set with effort rating','Tested a heavy single with a spotter or safeties']},
+{id:'calisthenics',name:'Calisthenics',color:'#5BB04A',tag:'Bodyweight skills',
+ phil:'Bodyweight strength grows through harder variations, not only more reps. Master the basic push, pull, squat and hold, then move to a harder progression when you can do three clean sets at the top of the range.',
+ cue:'Squeeze your glutes and abs so the body moves as one plank, and control the way down.',
+ check:['10 strict push-ups','5 strict pull-ups or chin-ups','A 45-second hollow body hold','Pistol squat to a box, 3 reps per leg','A 30-second wall handstand hold']},
+{id:'chess',name:'Chess fitness',color:'#7A8CA3',tag:'Physical fitness for chess',
+ phil:'Chess is mental, but long tournaments are physical. Better aerobic fitness, a healthy neck and back, steady sleep and calm breathing help you think clearly late in the game. This plan trains your body, not your chess.',
+ cue:'Every hour, stand, drop your shoulders, take five slow breaths and look at something far away.',
+ check:['Did 3 easy cardio sessions this week','Did posture drills on 4 days','Slept 7 hours before a game day','Practiced the pre-game breathing routine','Walked between games at the last event']}
+];
+CM.SPM=Object.fromEntries(CM.SP.map(function(s){return [s.id,s];}));
+})(globalThis.CM=globalThis.CM||{});
