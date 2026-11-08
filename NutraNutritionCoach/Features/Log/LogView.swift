@@ -109,17 +109,22 @@ struct LogView: View {
         photoStatus = "Looking at your photo…"
         let data = try? await item.loadTransferable(type: Data.self)
         photoItem = nil
-        guard let data else {
+        guard let data, let jpeg = BackendService.uploadJPEG(from: data) else {
             photoStatus = "Nutra couldn't open that photo. Try another, or type what's in it."
             return
         }
-        if let description = await BackendService.describeMealPhoto(data) {
+        if !BackendService.isConfigured {
+            // NEEDS: NutraBackendURL in project.yml once the Supabase analyze-meal function is deployed.
+            photoStatus = "Photo reading isn't switched on yet. Type what's in the photo above and tap Review."
+            textFocused = true
+            return
+        }
+        if let description = await BackendService.describeMealPhoto(jpeg) {
             text = description
             photoStatus = Disclaimers.photoEstimate
             openReview(source: .photo)
         } else {
-            // NEEDS: Supabase analyze-meal function. Until then the person types what's in the photo.
-            photoStatus = "Photo reading isn't switched on yet. Type what's in the photo above and tap Review."
+            photoStatus = "Nutra couldn't read that photo right now. Type what's in it above and tap Review."
             textFocused = true
         }
     }

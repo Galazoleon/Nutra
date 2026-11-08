@@ -42,8 +42,7 @@ _Last updated: 2026-11-08_
 
 | File | What is needed | Who provides it |
 |---|---|---|
-| `Services/BackendService.swift` (photo) | Deployed Supabase `analyze-meal` function, provider key as server secret, `NutraBackendURL` in `project.yml` | You (Supabase account) |
-| `Services/BackendService.swift` (coach) | Deployed Supabase `coach` function, provider key as server secret | You |
+| `Services/BackendService.swift` (photo + coach) | Server code is written (`supabase/functions/`, type-checked). Needs: deploy both functions, add `ANTHROPIC_API_KEY` secret, put the Project URL in `NutraBackendURL` in `project.yml`. Steps: `supabase/functions/README.md` | You (Supabase + Anthropic accounts) |
 | `Store/AppStore.swift` (`isPro`) | App Store Connect product ids, then StoreKit 2 | You (App Store Connect) |
 | `Features/Coach/CoachView.swift` (paywall) | Same product ids | You |
 | `Features/Coach/FoodsView.swift` | Label scanning and barcode lookup (`lookup-food` function) | Code next; server by you |
@@ -52,6 +51,6 @@ _Last updated: 2026-11-08_
 ## Things only you can do
 1. Choose your Apple Developer Team and your own bundle id (replace `com.example.nutra` in `project.yml`).
 2. Create subscription products in App Store Connect and send me the product ids.
-3. Create a Supabase project if you want photo reading and the live coach.
+3. Follow `supabase/functions/README.md` to turn on photo reading and the live coach (your Claude key stays on Supabase).
 4. Provide an app icon (1024×1024), a privacy policy URL and a support URL.
 5. Arrange professional review of the nutrition and training content.

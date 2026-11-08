@@ -43,6 +43,8 @@ targets:
         NSPhotoLibraryUsageDescription: Nutra reads the meal photo you choose to estimate what's in it.
         # Leave empty until the Supabase functions are deployed. Never put an AI key here.
         NutraBackendURL: ""
+        # Supabase "anon public" key (safe to share). Only needed if JWT verification is on.
+        NutraBackendAnonKey: ""
     settings:
       base:
         PRODUCT_BUNDLE_IDENTIFIER: com.example.nutra   # placeholder: choose your own

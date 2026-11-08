@@ -130,8 +130,10 @@ struct AskView: View {
         }
         thinking = true
         let goal = store.goals.first?.title ?? "none"
+        let ageNote = store.profile.isUnder18 ? "; under 18" : ""
+        let gentle = store.isGentle
         Task {
-            let live = await BackendService.askCoach(clean, context: "Goal: \(goal)")
+            let live = await BackendService.askCoach(clean, context: "Goal: \(goal)\(ageNote)", gentle: gentle)
             conversation.append(Turn(question: clean, answer: live ?? local.text))
             thinking = false
         }
