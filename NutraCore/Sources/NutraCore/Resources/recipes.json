@@ -1,0 +1,1783 @@
+[
+ {
+  "id": "overnight-oats",
+  "name": "Overnight oats with berries",
+  "slots": [
+   "breakfast"
+  ],
+  "minutes": 5,
+  "needsOven": false,
+  "diets": [
+   "mediterranean",
+   "vegetarian",
+   "pescatarian"
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "nutrients": {
+   "calories": 380,
+   "protein": 18,
+   "carbs": 55,
+   "fat": 10,
+   "fiber": 8,
+   "micros": {}
+  },
+  "ingredients": [
+   {
+    "name": "Rolled oats",
+    "amount": 0.5,
+    "unit": "cup",
+    "aisle": "Grains and bread"
+   },
+   {
+    "name": "Greek yogurt",
+    "amount": 0.5,
+    "unit": "cup",
+    "aisle": "Dairy and eggs"
+   },
+   {
+    "name": "Milk",
+    "amount": 0.5,
+    "unit": "cup",
+    "aisle": "Dairy and eggs"
+   },
+   {
+    "name": "Berries",
+    "amount": 0.5,
+    "unit": "cup",
+    "aisle": "Produce"
+   },
+   {
+    "name": "Chia seeds",
+    "amount": 1,
+    "unit": "tbsp",
+    "aisle": "Pantry"
+   }
+  ],
+  "steps": [
+   "Stir oats, yogurt, milk and chia in a jar.",
+   "Cover and chill overnight.",
+   "Top with berries in the morning."
+  ],
+  "swapTip": "Use a plant milk and soy yogurt for dairy-free."
+ },
+ {
+  "id": "veggie-scramble",
+  "name": "Vegetable scramble on toast",
+  "slots": [
+   "breakfast"
+  ],
+  "minutes": 12,
+  "needsOven": false,
+  "diets": [
+   "vegetarian",
+   "pescatarian",
+   "mediterranean"
+  ],
+  "allergens": [
+   "egg",
+   "wheat"
+  ],
+  "nutrients": {
+   "calories": 360,
+   "protein": 21,
+   "carbs": 26,
+   "fat": 18,
+   "fiber": 5,
+   "micros": {}
+  },
+  "ingredients": [
+   {
+    "name": "Eggs",
+    "amount": 2,
+    "unit": "",
+    "aisle": "Dairy and eggs"
+   },
+   {
+    "name": "Spinach",
+    "amount": 1,
+    "unit": "cup",
+    "aisle": "Produce"
+   },
+   {
+    "name": "Bell pepper",
+    "amount": 0.5,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "name": "Whole wheat bread",
+    "amount": 1,
+    "unit": "slice",
+    "aisle": "Grains and bread"
+   },
+   {
+    "name": "Olive oil",
+    "amount": 1,
+    "unit": "tsp",
+    "aisle": "Pantry"
+   }
+  ],
+  "steps": [
+   "Chop the pepper and warm the oil in a pan.",
+   "Cook the pepper for 2 minutes, add spinach until it wilts.",
+   "Pour in beaten eggs and stir gently until just set.",
+   "Serve on toast."
+  ],
+  "swapTip": null
+ },
+ {
+  "id": "yogurt-parfait",
+  "name": "Yogurt parfait",
+  "slots": [
+   "breakfast",
+   "snack"
+  ],
+  "minutes": 5,
+  "needsOven": false,
+  "diets": [
+   "vegetarian",
+   "pescatarian",
+   "mediterranean"
+  ],
+  "allergens": [
+   "milk",
+   "treeNut"
+  ],
+  "nutrients": {
+   "calories": 320,
+   "protein": 22,
+   "carbs": 34,
+   "fat": 11,
+   "fiber": 5,
+   "micros": {}
+  },
+  "ingredients": [
+   {
+    "name": "Greek yogurt",
+    "amount": 1,
+    "unit": "cup",
+    "aisle": "Dairy and eggs"
+   },
+   {
+    "name": "Berries",
+    "amount": 0.5,
+    "unit": "cup",
+    "aisle": "Produce"
+   },
+   {
+    "name": "Almonds",
+    "amount": 1,
+    "unit": "tbsp",
+    "aisle": "Pantry"
+   },
+   {
+    "name": "Honey",
+    "amount": 1,
+    "unit": "tsp",
+    "aisle": "Pantry"
+   }
+  ],
+  "steps": [
+   "Spoon yogurt into a bowl or glass.",
+   "Layer berries and chopped almonds on top.",
+   "Drizzle with honey."
+  ],
+  "swapTip": null
+ },
+ {
+  "id": "banana-pb-toast",
+  "name": "Banana peanut butter toast",
+  "slots": [
+   "breakfast",
+   "snack"
+  ],
+  "minutes": 5,
+  "needsOven": false,
+  "diets": [
+   "vegetarian",
+   "pescatarian"
+  ],
+  "allergens": [
+   "peanut",
+   "wheat"
+  ],
+  "nutrients": {
+   "calories": 330,
+   "protein": 11,
+   "carbs": 45,
+   "fat": 12,
+   "fiber": 7,
+   "micros": {}
+  },
+  "ingredients": [
+   {
+    "name": "Whole wheat bread",
+    "amount": 2,
+    "unit": "slice",
+    "aisle": "Grains and bread"
+   },
+   {
+    "name": "Peanut butter",
+    "amount": 1,
+    "unit": "tbsp",
+    "aisle": "Pantry"
+   },
+   {
+    "name": "Banana",
+    "amount": 1,
+    "unit": "",
+    "aisle": "Produce"
+   }
+  ],
+  "steps": [
+   "Toast the bread.",
+   "Spread peanut butter.",
+   "Slice the banana on top."
+  ],
+  "swapTip": "Use sunflower seed butter for a peanut-free version."
+ },
+ {
+  "id": "steak-and-eggs",
+  "name": "Steak and eggs",
+  "slots": [
+   "breakfast",
+   "dinner"
+  ],
+  "minutes": 15,
+  "needsOven": false,
+  "diets": [
+   "carnivore"
+  ],
+  "allergens": [
+   "egg"
+  ],
+  "nutrients": {
+   "calories": 560,
+   "protein": 52,
+   "carbs": 0,
+   "fat": 38,
+   "fiber": 0,
+   "micros": {}
+  },
+  "ingredients": [
+   {
+    "name": "Steak",
+    "amount": 150,
+    "unit": "g",
+    "aisle": "Meat and fish"
+   },
+   {
+    "name": "Eggs",
+    "amount": 2,
+    "unit": "",
+    "aisle": "Dairy and eggs"
+   },
+   {
+    "name": "Butter",
+    "amount": 1,
+    "unit": "tsp",
+    "aisle": "Dairy and eggs"
+   }
+  ],
+  "steps": [
+   "Pat the steak dry and season with salt.",
+   "Cook in a hot pan 3 to 4 minutes per side, then rest.",
+   "Fry the eggs in butter and serve together."
+  ],
+  "swapTip": null
+ },
+ {
+  "id": "smoked-salmon-bagel",
+  "name": "Smoked salmon bagel",
+  "slots": [
+   "breakfast"
+  ],
+  "minutes": 5,
+  "needsOven": false,
+  "diets": [
+   "pescatarian",
+   "mediterranean"
+  ],
+  "allergens": [
+   "fish",
+   "wheat",
+   "milk"
+  ],
+  "nutrients": {
+   "calories": 420,
+   "protein": 24,
+   "carbs": 48,
+   "fat": 14,
+   "fiber": 2,
+   "micros": {}
+  },
+  "ingredients": [
+   {
+    "name": "Bagel",
+    "amount": 1,
+    "unit": "",
+    "aisle": "Grains and bread"
+   },
+   {
+    "name": "Smoked salmon",
+    "amount": 60,
+    "unit": "g",
+    "aisle": "Meat and fish"
+   },
+   {
+    "name": "Cream cheese",
+    "amount": 1,
+    "unit": "tbsp",
+    "aisle": "Dairy and eggs"
+   },
+   {
+    "name": "Cucumber",
+    "amount": 0.25,
+    "unit": "",
+    "aisle": "Produce"
+   }
+  ],
+  "steps": [
+   "Toast the bagel.",
+   "Spread cream cheese.",
+   "Top with salmon and cucumber slices."
+  ],
+  "swapTip": null
+ },
+ {
+  "id": "tofu-scramble",
+  "name": "Tofu scramble",
+  "slots": [
+   "breakfast",
+   "lunch"
+  ],
+  "minutes": 15,
+  "needsOven": false,
+  "diets": [
+   "vegetarian",
+   "mediterranean"
+  ],
+  "allergens": [
+   "soy"
+  ],
+  "nutrients": {
+   "calories": 310,
+   "protein": 22,
+   "carbs": 14,
+   "fat": 18,
+   "fiber": 5,
+   "micros": {}
+  },
+  "ingredients": [
+   {
+    "name": "Tofu",
+    "amount": 200,
+    "unit": "g",
+    "aisle": "Dairy and eggs"
+   },
+   {
+    "name": "Spinach",
+    "amount": 1,
+    "unit": "cup",
+    "aisle": "Produce"
+   },
+   {
+    "name": "Tomato",
+    "amount": 1,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "name": "Turmeric",
+    "amount": 0.5,
+    "unit": "tsp",
+    "aisle": "Pantry"
+   },
+   {
+    "name": "Olive oil",
+    "amount": 1,
+    "unit": "tsp",
+    "aisle": "Pantry"
+   }
+  ],
+  "steps": [
+   "Crumble the tofu with your hands.",
+   "Warm oil, add tofu and turmeric, cook 5 minutes.",
+   "Add chopped tomato and spinach until warm."
+  ],
+  "swapTip": null
+ },
+ {
+  "id": "bacon-egg-cups",
+  "name": "Bacon and egg cups",
+  "slots": [
+   "breakfast",
+   "snack"
+  ],
+  "minutes": 20,
+  "needsOven": true,
+  "diets": [
+   "carnivore"
+  ],
+  "allergens": [
+   "egg"
+  ],
+  "nutrients": {
+   "calories": 290,
+   "protein": 20,
+   "carbs": 1,
+   "fat": 22,
+   "fiber": 0,
+   "micros": {}
+  },
+  "ingredients": [
+   {
+    "name": "Bacon",
+    "amount": 2,
+    "unit": "slice",
+    "aisle": "Meat and fish"
+   },
+   {
+    "name": "Eggs",
+    "amount": 2,
+    "unit": "",
+    "aisle": "Dairy and eggs"
+   }
+  ],
+  "steps": [
+   "Heat oven to 190°C / 375°F.",
+   "Line two muffin cups with bacon.",
+   "Crack an egg into each and bake 12 to 15 minutes."
+  ],
+  "swapTip": null
+ },
+ {
+  "id": "chicken-grain-bowl",
+  "name": "Chicken grain bowl",
+  "slots": [
+   "lunch",
+   "dinner"
+  ],
+  "minutes": 25,
+  "needsOven": false,
+  "diets": [
+   "mediterranean"
+  ],
+  "allergens": [],
+  "nutrients": {
+   "calories": 540,
+   "protein": 42,
+   "carbs": 55,
+   "fat": 16,
+   "fiber": 8,
+   "micros": {}
+  },
+  "ingredients": [
+   {
+    "name": "Chicken breast",
+    "amount": 120,
+    "unit": "g",
+    "aisle": "Meat and fish"
+   },
+   {
+    "name": "Quinoa",
+    "amount": 0.75,
+    "unit": "cup",
+    "aisle": "Grains and bread"
+   },
+   {
+    "name": "Cucumber",
+    "amount": 0.5,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "name": "Tomato",
+    "amount": 1,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "name": "Olive oil",
+    "amount": 1,
+    "unit": "tbsp",
+    "aisle": "Pantry"
+   },
+   {
+    "name": "Lemon",
+    "amount": 0.5,
+    "unit": "",
+    "aisle": "Produce"
+   }
+  ],
+  "steps": [
+   "Cook quinoa as the packet says.",
+   "Season and pan-cook the chicken 6 minutes per side until cooked through.",
+   "Chop cucumber and tomato.",
+   "Slice chicken and build the bowl; dress with oil and lemon."
+  ],
+  "swapTip": null
+ },
+ {
+  "id": "lentil-soup",
+  "name": "Red lentil soup",
+  "slots": [
+   "lunch",
+   "dinner"
+  ],
+  "minutes": 30,
+  "needsOven": false,
+  "diets": [
+   "vegetarian",
+   "mediterranean",
+   "pescatarian"
+  ],
+  "allergens": [],
+  "nutrients": {
+   "calories": 380,
+   "protein": 20,
+   "carbs": 58,
+   "fat": 7,
+   "fiber": 15,
+   "micros": {}
+  },
+  "ingredients": [
+   {
+    "name": "Red lentils",
+    "amount": 0.75,
+    "unit": "cup",
+    "aisle": "Pantry"
+   },
+   {
+    "name": "Carrot",
+    "amount": 1,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "name": "Onion",
+    "amount": 1,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "name": "Vegetable stock",
+    "amount": 3,
+    "unit": "cup",
+    "aisle": "Pantry"
+   },
+   {
+    "name": "Olive oil",
+    "amount": 1,
+    "unit": "tsp",
+    "aisle": "Pantry"
+   }
+  ],
+  "steps": [
+   "Chop onion and carrot; soften in oil for 5 minutes.",
+   "Add rinsed lentils and stock.",
+   "Simmer 20 minutes until soft, then blend if you like."
+  ],
+  "swapTip": "Freeze extra portions for busy days."
+ },
+ {
+  "id": "tuna-salad-wrap",
+  "name": "Tuna salad wrap",
+  "slots": [
+   "lunch"
+  ],
+  "minutes": 10,
+  "needsOven": false,
+  "diets": [
+   "pescatarian"
+  ],
+  "allergens": [
+   "fish",
+   "wheat",
+   "egg"
+  ],
+  "nutrients": {
+   "calories": 430,
+   "protein": 32,
+   "carbs": 38,
+   "fat": 15,
+   "fiber": 5,
+   "micros": {}
+  },
+  "ingredients": [
+   {
+    "name": "Tuna, canned",
+    "amount": 1,
+    "unit": "can",
+    "aisle": "Pantry"
+   },
+   {
+    "name": "Tortilla",
+    "amount": 1,
+    "unit": "",
+    "aisle": "Grains and bread"
+   },
+   {
+    "name": "Mayonnaise",
+    "amount": 1,
+    "unit": "tbsp",
+    "aisle": "Pantry"
+   },
+   {
+    "name": "Lettuce",
+    "amount": 1,
+    "unit": "cup",
+    "aisle": "Produce"
+   },
+   {
+    "name": "Tomato",
+    "amount": 0.5,
+    "unit": "",
+    "aisle": "Produce"
+   }
+  ],
+  "steps": [
+   "Mix tuna with mayonnaise.",
+   "Lay lettuce and tomato on the tortilla.",
+   "Add tuna, roll tightly and slice."
+  ],
+  "swapTip": null
+ },
+ {
+  "id": "chickpea-salad",
+  "name": "Mediterranean chickpea salad",
+  "slots": [
+   "lunch"
+  ],
+  "minutes": 10,
+  "needsOven": false,
+  "diets": [
+   "vegetarian",
+   "mediterranean",
+   "pescatarian"
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "nutrients": {
+   "calories": 450,
+   "protein": 18,
+   "carbs": 48,
+   "fat": 20,
+   "fiber": 13,
+   "micros": {}
+  },
+  "ingredients": [
+   {
+    "name": "Chickpeas, canned",
+    "amount": 1,
+    "unit": "cup",
+    "aisle": "Pantry"
+   },
+   {
+    "name": "Cucumber",
+    "amount": 0.5,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "name": "Tomato",
+    "amount": 1,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "name": "Feta",
+    "amount": 30,
+    "unit": "g",
+    "aisle": "Dairy and eggs"
+   },
+   {
+    "name": "Olive oil",
+    "amount": 1,
+    "unit": "tbsp",
+    "aisle": "Pantry"
+   },
+   {
+    "name": "Lemon",
+    "amount": 0.5,
+    "unit": "",
+    "aisle": "Produce"
+   }
+  ],
+  "steps": [
+   "Rinse and drain chickpeas.",
+   "Chop vegetables and crumble feta.",
+   "Toss everything with oil, lemon and a pinch of salt."
+  ],
+  "swapTip": null
+ },
+ {
+  "id": "burger-lettuce-wrap",
+  "name": "Burger lettuce wraps",
+  "slots": [
+   "lunch",
+   "dinner"
+  ],
+  "minutes": 15,
+  "needsOven": false,
+  "diets": [
+   "carnivore"
+  ],
+  "allergens": [],
+  "nutrients": {
+   "calories": 480,
+   "protein": 38,
+   "carbs": 2,
+   "fat": 35,
+   "fiber": 0,
+   "micros": {}
+  },
+  "ingredients": [
+   {
+    "name": "Ground beef",
+    "amount": 150,
+    "unit": "g",
+    "aisle": "Meat and fish"
+   },
+   {
+    "name": "Salt",
+    "amount": 1,
+    "unit": "pinch",
+    "aisle": "Pantry"
+   }
+  ],
+  "steps": [
+   "Shape beef into two patties and season.",
+   "Cook 4 minutes per side.",
+   "Serve as they are, or wrapped in lettuce if you eat plants."
+  ],
+  "swapTip": null
+ },
+ {
+  "id": "hummus-veggie-sandwich",
+  "name": "Hummus veggie sandwich",
+  "slots": [
+   "lunch"
+  ],
+  "minutes": 8,
+  "needsOven": false,
+  "diets": [
+   "vegetarian",
+   "mediterranean"
+  ],
+  "allergens": [
+   "wheat",
+   "sesame"
+  ],
+  "nutrients": {
+   "calories": 390,
+   "protein": 15,
+   "carbs": 52,
+   "fat": 14,
+   "fiber": 11,
+   "micros": {}
+  },
+  "ingredients": [
+   {
+    "name": "Whole wheat bread",
+    "amount": 2,
+    "unit": "slice",
+    "aisle": "Grains and bread"
+   },
+   {
+    "name": "Hummus",
+    "amount": 0.25,
+    "unit": "cup",
+    "aisle": "Pantry"
+   },
+   {
+    "name": "Carrot",
+    "amount": 1,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "name": "Spinach",
+    "amount": 1,
+    "unit": "cup",
+    "aisle": "Produce"
+   },
+   {
+    "name": "Cucumber",
+    "amount": 0.25,
+    "unit": "",
+    "aisle": "Produce"
+   }
+  ],
+  "steps": [
+   "Spread hummus on both slices.",
+   "Add grated carrot, spinach and cucumber.",
+   "Close, press and cut in half."
+  ],
+  "swapTip": null
+ },
+ {
+  "id": "salmon-rice-bowl",
+  "name": "Salmon rice bowl",
+  "slots": [
+   "lunch",
+   "dinner"
+  ],
+  "minutes": 20,
+  "needsOven": false,
+  "diets": [
+   "pescatarian",
+   "mediterranean"
+  ],
+  "allergens": [
+   "fish",
+   "soy",
+   "sesame"
+  ],
+  "nutrients": {
+   "calories": 560,
+   "protein": 34,
+   "carbs": 58,
+   "fat": 20,
+   "fiber": 4,
+   "micros": {}
+  },
+  "ingredients": [
+   {
+    "name": "Salmon",
+    "amount": 120,
+    "unit": "g",
+    "aisle": "Meat and fish"
+   },
+   {
+    "name": "White rice",
+    "amount": 0.75,
+    "unit": "cup",
+    "aisle": "Grains and bread"
+   },
+   {
+    "name": "Cucumber",
+    "amount": 0.5,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "name": "Soy sauce",
+    "amount": 1,
+    "unit": "tbsp",
+    "aisle": "Pantry"
+   },
+   {
+    "name": "Sesame seeds",
+    "amount": 1,
+    "unit": "tsp",
+    "aisle": "Pantry"
+   }
+  ],
+  "steps": [
+   "Cook rice.",
+   "Pan-cook salmon skin-side down 5 minutes, flip for 3.",
+   "Flake salmon over rice with cucumber, soy and sesame."
+  ],
+  "swapTip": null
+ },
+ {
+  "id": "egg-fried-rice",
+  "name": "Vegetable egg fried rice",
+  "slots": [
+   "lunch",
+   "dinner"
+  ],
+  "minutes": 15,
+  "needsOven": false,
+  "diets": [
+   "vegetarian",
+   "pescatarian"
+  ],
+  "allergens": [
+   "egg",
+   "soy"
+  ],
+  "nutrients": {
+   "calories": 480,
+   "protein": 18,
+   "carbs": 66,
+   "fat": 15,
+   "fiber": 5,
+   "micros": {}
+  },
+  "ingredients": [
+   {
+    "name": "Cooked rice",
+    "amount": 1.5,
+    "unit": "cup",
+    "aisle": "Grains and bread"
+   },
+   {
+    "name": "Eggs",
+    "amount": 2,
+    "unit": "",
+    "aisle": "Dairy and eggs"
+   },
+   {
+    "name": "Mixed vegetables",
+    "amount": 1,
+    "unit": "cup",
+    "aisle": "Frozen"
+   },
+   {
+    "name": "Soy sauce",
+    "amount": 1,
+    "unit": "tbsp",
+    "aisle": "Pantry"
+   },
+   {
+    "name": "Oil",
+    "amount": 1,
+    "unit": "tsp",
+    "aisle": "Pantry"
+   }
+  ],
+  "steps": [
+   "Heat oil in a large pan.",
+   "Scramble eggs and set aside.",
+   "Fry vegetables and rice 4 minutes.",
+   "Return eggs, add soy sauce and toss."
+  ],
+  "swapTip": "Day-old rice works best."
+ },
+ {
+  "id": "sheet-pan-chicken",
+  "name": "Sheet-pan chicken and vegetables",
+  "slots": [
+   "dinner"
+  ],
+  "minutes": 35,
+  "needsOven": true,
+  "diets": [
+   "mediterranean"
+  ],
+  "allergens": [],
+  "nutrients": {
+   "calories": 520,
+   "protein": 40,
+   "carbs": 40,
+   "fat": 20,
+   "fiber": 8,
+   "micros": {}
+  },
+  "ingredients": [
+   {
+    "name": "Chicken breast",
+    "amount": 130,
+    "unit": "g",
+    "aisle": "Meat and fish"
+   },
+   {
+    "name": "Sweet potato",
+    "amount": 1,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "name": "Broccoli",
+    "amount": 1,
+    "unit": "cup",
+    "aisle": "Produce"
+   },
+   {
+    "name": "Olive oil",
+    "amount": 1,
+    "unit": "tbsp",
+    "aisle": "Pantry"
+   }
+  ],
+  "steps": [
+   "Heat oven to 200°C / 400°F.",
+   "Cut sweet potato into cubes; toss with broccoli and oil.",
+   "Add chicken on the tray and season.",
+   "Roast 25 minutes until the chicken is cooked through."
+  ],
+  "swapTip": null
+ },
+ {
+  "id": "baked-salmon",
+  "name": "Baked salmon, potatoes and greens",
+  "slots": [
+   "dinner"
+  ],
+  "minutes": 30,
+  "needsOven": true,
+  "diets": [
+   "pescatarian",
+   "mediterranean"
+  ],
+  "allergens": [
+   "fish"
+  ],
+  "nutrients": {
+   "calories": 560,
+   "protein": 36,
+   "carbs": 40,
+   "fat": 24,
+   "fiber": 6,
+   "micros": {}
+  },
+  "ingredients": [
+   {
+    "name": "Salmon",
+    "amount": 125,
+    "unit": "g",
+    "aisle": "Meat and fish"
+   },
+   {
+    "name": "Potato",
+    "amount": 1,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "name": "Green beans",
+    "amount": 1,
+    "unit": "cup",
+    "aisle": "Produce"
+   },
+   {
+    "name": "Olive oil",
+    "amount": 1,
+    "unit": "tbsp",
+    "aisle": "Pantry"
+   },
+   {
+    "name": "Lemon",
+    "amount": 0.5,
+    "unit": "",
+    "aisle": "Produce"
+   }
+  ],
+  "steps": [
+   "Heat oven to 200°C / 400°F.",
+   "Roast sliced potato with oil for 15 minutes.",
+   "Add salmon and beans, roast 12 more minutes.",
+   "Squeeze lemon on top."
+  ],
+  "swapTip": null
+ },
+ {
+  "id": "beef-stir-fry",
+  "name": "Beef and vegetable stir-fry",
+  "slots": [
+   "dinner"
+  ],
+  "minutes": 20,
+  "needsOven": false,
+  "diets": [],
+  "allergens": [
+   "soy"
+  ],
+  "nutrients": {
+   "calories": 540,
+   "protein": 36,
+   "carbs": 52,
+   "fat": 18,
+   "fiber": 6,
+   "micros": {}
+  },
+  "ingredients": [
+   {
+    "name": "Beef strips",
+    "amount": 130,
+    "unit": "g",
+    "aisle": "Meat and fish"
+   },
+   {
+    "name": "Mixed vegetables",
+    "amount": 1.5,
+    "unit": "cup",
+    "aisle": "Frozen"
+   },
+   {
+    "name": "White rice",
+    "amount": 0.75,
+    "unit": "cup",
+    "aisle": "Grains and bread"
+   },
+   {
+    "name": "Soy sauce",
+    "amount": 1,
+    "unit": "tbsp",
+    "aisle": "Pantry"
+   },
+   {
+    "name": "Oil",
+    "amount": 1,
+    "unit": "tsp",
+    "aisle": "Pantry"
+   }
+  ],
+  "steps": [
+   "Cook rice.",
+   "Stir-fry beef in hot oil 3 minutes; remove.",
+   "Stir-fry vegetables 4 minutes.",
+   "Return beef, add soy sauce, serve over rice."
+  ],
+  "swapTip": null
+ },
+ {
+  "id": "bean-chili",
+  "name": "Three-bean chili",
+  "slots": [
+   "dinner",
+   "lunch"
+  ],
+  "minutes": 35,
+  "needsOven": false,
+  "diets": [
+   "vegetarian",
+   "mediterranean",
+   "pescatarian"
+  ],
+  "allergens": [],
+  "nutrients": {
+   "calories": 450,
+   "protein": 22,
+   "carbs": 70,
+   "fat": 8,
+   "fiber": 22,
+   "micros": {}
+  },
+  "ingredients": [
+   {
+    "name": "Black beans, canned",
+    "amount": 1,
+    "unit": "cup",
+    "aisle": "Pantry"
+   },
+   {
+    "name": "Kidney beans, canned",
+    "amount": 0.5,
+    "unit": "cup",
+    "aisle": "Pantry"
+   },
+   {
+    "name": "Chopped tomatoes",
+    "amount": 1,
+    "unit": "can",
+    "aisle": "Pantry"
+   },
+   {
+    "name": "Onion",
+    "amount": 1,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "name": "Chili spices",
+    "amount": 1,
+    "unit": "tbsp",
+    "aisle": "Pantry"
+   }
+  ],
+  "steps": [
+   "Soften chopped onion in a pot.",
+   "Add spices, tomatoes and drained beans.",
+   "Simmer 25 minutes, stirring now and then."
+  ],
+  "swapTip": "Top with yogurt or avocado if you like."
+ },
+ {
+  "id": "pasta-primavera",
+  "name": "Pasta with vegetables",
+  "slots": [
+   "dinner"
+  ],
+  "minutes": 20,
+  "needsOven": false,
+  "diets": [
+   "vegetarian",
+   "mediterranean",
+   "pescatarian"
+  ],
+  "allergens": [
+   "wheat",
+   "milk"
+  ],
+  "nutrients": {
+   "calories": 520,
+   "protein": 19,
+   "carbs": 78,
+   "fat": 15,
+   "fiber": 8,
+   "micros": {}
+  },
+  "ingredients": [
+   {
+    "name": "Pasta",
+    "amount": 85,
+    "unit": "g",
+    "aisle": "Grains and bread"
+   },
+   {
+    "name": "Zucchini",
+    "amount": 1,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "name": "Cherry tomatoes",
+    "amount": 1,
+    "unit": "cup",
+    "aisle": "Produce"
+   },
+   {
+    "name": "Parmesan",
+    "amount": 15,
+    "unit": "g",
+    "aisle": "Dairy and eggs"
+   },
+   {
+    "name": "Olive oil",
+    "amount": 1,
+    "unit": "tbsp",
+    "aisle": "Pantry"
+   }
+  ],
+  "steps": [
+   "Boil pasta as the packet says.",
+   "Pan-cook sliced zucchini and tomatoes in oil 6 minutes.",
+   "Toss with pasta and parmesan."
+  ],
+  "swapTip": null
+ },
+ {
+  "id": "shrimp-tacos",
+  "name": "Shrimp tacos",
+  "slots": [
+   "dinner"
+  ],
+  "minutes": 20,
+  "needsOven": false,
+  "diets": [
+   "pescatarian"
+  ],
+  "allergens": [
+   "shellfish",
+   "wheat"
+  ],
+  "nutrients": {
+   "calories": 470,
+   "protein": 30,
+   "carbs": 50,
+   "fat": 16,
+   "fiber": 7,
+   "micros": {}
+  },
+  "ingredients": [
+   {
+    "name": "Shrimp",
+    "amount": 150,
+    "unit": "g",
+    "aisle": "Meat and fish"
+   },
+   {
+    "name": "Tortilla",
+    "amount": 2,
+    "unit": "",
+    "aisle": "Grains and bread"
+   },
+   {
+    "name": "Cabbage",
+    "amount": 1,
+    "unit": "cup",
+    "aisle": "Produce"
+   },
+   {
+    "name": "Lime",
+    "amount": 1,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "name": "Avocado",
+    "amount": 0.5,
+    "unit": "",
+    "aisle": "Produce"
+   }
+  ],
+  "steps": [
+   "Cook shrimp in a hot pan 2 minutes per side.",
+   "Warm tortillas.",
+   "Fill with cabbage, shrimp and avocado; squeeze lime."
+  ],
+  "swapTip": null
+ },
+ {
+  "id": "roast-chicken-thighs",
+  "name": "Crispy chicken thighs",
+  "slots": [
+   "dinner",
+   "lunch"
+  ],
+  "minutes": 40,
+  "needsOven": true,
+  "diets": [
+   "carnivore"
+  ],
+  "allergens": [],
+  "nutrients": {
+   "calories": 450,
+   "protein": 38,
+   "carbs": 0,
+   "fat": 32,
+   "fiber": 0,
+   "micros": {}
+  },
+  "ingredients": [
+   {
+    "name": "Chicken thighs",
+    "amount": 2,
+    "unit": "",
+    "aisle": "Meat and fish"
+   },
+   {
+    "name": "Salt",
+    "amount": 1,
+    "unit": "pinch",
+    "aisle": "Pantry"
+   }
+  ],
+  "steps": [
+   "Heat oven to 210°C / 410°F.",
+   "Salt the thighs and place skin-up on a tray.",
+   "Roast 35 minutes until golden and cooked through."
+  ],
+  "swapTip": null
+ },
+ {
+  "id": "dal-rice",
+  "name": "Dal with rice",
+  "slots": [
+   "dinner",
+   "lunch"
+  ],
+  "minutes": 30,
+  "needsOven": false,
+  "diets": [
+   "vegetarian",
+   "pescatarian"
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "nutrients": {
+   "calories": 520,
+   "protein": 22,
+   "carbs": 88,
+   "fat": 8,
+   "fiber": 14,
+   "micros": {}
+  },
+  "ingredients": [
+   {
+    "name": "Red lentils",
+    "amount": 0.75,
+    "unit": "cup",
+    "aisle": "Pantry"
+   },
+   {
+    "name": "White rice",
+    "amount": 0.75,
+    "unit": "cup",
+    "aisle": "Grains and bread"
+   },
+   {
+    "name": "Onion",
+    "amount": 1,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "name": "Curry spices",
+    "amount": 1,
+    "unit": "tbsp",
+    "aisle": "Pantry"
+   },
+   {
+    "name": "Butter",
+    "amount": 1,
+    "unit": "tsp",
+    "aisle": "Dairy and eggs"
+   }
+  ],
+  "steps": [
+   "Simmer rinsed lentils in water 20 minutes.",
+   "Fry onion and spices in butter, stir into lentils.",
+   "Serve with rice."
+  ],
+  "swapTip": null
+ },
+ {
+  "id": "pork-chop-dinner",
+  "name": "Pork chop with apples and greens",
+  "slots": [
+   "dinner"
+  ],
+  "minutes": 25,
+  "needsOven": false,
+  "diets": [],
+  "allergens": [],
+  "nutrients": {
+   "calories": 500,
+   "protein": 38,
+   "carbs": 30,
+   "fat": 24,
+   "fiber": 6,
+   "micros": {}
+  },
+  "ingredients": [
+   {
+    "name": "Pork chop",
+    "amount": 1,
+    "unit": "",
+    "aisle": "Meat and fish"
+   },
+   {
+    "name": "Apple",
+    "amount": 1,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "name": "Spinach",
+    "amount": 2,
+    "unit": "cup",
+    "aisle": "Produce"
+   },
+   {
+    "name": "Oil",
+    "amount": 1,
+    "unit": "tsp",
+    "aisle": "Pantry"
+   }
+  ],
+  "steps": [
+   "Cook the chop 4 to 5 minutes per side.",
+   "Soften sliced apple in the same pan.",
+   "Wilt spinach and serve together."
+  ],
+  "swapTip": null
+ },
+ {
+  "id": "fish-stew",
+  "name": "Tomato fish stew",
+  "slots": [
+   "dinner"
+  ],
+  "minutes": 25,
+  "needsOven": false,
+  "diets": [
+   "pescatarian",
+   "mediterranean"
+  ],
+  "allergens": [
+   "fish"
+  ],
+  "nutrients": {
+   "calories": 420,
+   "protein": 34,
+   "carbs": 30,
+   "fat": 16,
+   "fiber": 6,
+   "micros": {}
+  },
+  "ingredients": [
+   {
+    "name": "White fish",
+    "amount": 150,
+    "unit": "g",
+    "aisle": "Meat and fish"
+   },
+   {
+    "name": "Chopped tomatoes",
+    "amount": 1,
+    "unit": "can",
+    "aisle": "Pantry"
+   },
+   {
+    "name": "Potato",
+    "amount": 1,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "name": "Onion",
+    "amount": 1,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "name": "Olive oil",
+    "amount": 1,
+    "unit": "tbsp",
+    "aisle": "Pantry"
+   }
+  ],
+  "steps": [
+   "Soften onion in oil.",
+   "Add tomatoes and diced potato; simmer 12 minutes.",
+   "Add fish chunks and simmer 6 minutes until flaky."
+  ],
+  "swapTip": null
+ },
+ {
+  "id": "apple-pb",
+  "name": "Apple and peanut butter",
+  "slots": [
+   "snack"
+  ],
+  "minutes": 2,
+  "needsOven": false,
+  "diets": [
+   "vegetarian",
+   "pescatarian"
+  ],
+  "allergens": [
+   "peanut"
+  ],
+  "nutrients": {
+   "calories": 190,
+   "protein": 4,
+   "carbs": 26,
+   "fat": 8,
+   "fiber": 5,
+   "micros": {}
+  },
+  "ingredients": [
+   {
+    "name": "Apple",
+    "amount": 1,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "name": "Peanut butter",
+    "amount": 1,
+    "unit": "tbsp",
+    "aisle": "Pantry"
+   }
+  ],
+  "steps": [
+   "Slice the apple.",
+   "Dip in peanut butter."
+  ],
+  "swapTip": null
+ },
+ {
+  "id": "hummus-carrots",
+  "name": "Hummus and carrots",
+  "slots": [
+   "snack"
+  ],
+  "minutes": 3,
+  "needsOven": false,
+  "diets": [
+   "vegetarian",
+   "mediterranean",
+   "pescatarian"
+  ],
+  "allergens": [
+   "sesame"
+  ],
+  "nutrients": {
+   "calories": 160,
+   "protein": 5,
+   "carbs": 18,
+   "fat": 7,
+   "fiber": 6,
+   "micros": {}
+  },
+  "ingredients": [
+   {
+    "name": "Hummus",
+    "amount": 0.25,
+    "unit": "cup",
+    "aisle": "Pantry"
+   },
+   {
+    "name": "Carrot",
+    "amount": 2,
+    "unit": "",
+    "aisle": "Produce"
+   }
+  ],
+  "steps": [
+   "Cut carrots into sticks.",
+   "Serve with hummus."
+  ],
+  "swapTip": null
+ },
+ {
+  "id": "boiled-eggs",
+  "name": "Two boiled eggs",
+  "slots": [
+   "snack",
+   "breakfast"
+  ],
+  "minutes": 12,
+  "needsOven": false,
+  "diets": [
+   "carnivore",
+   "vegetarian",
+   "pescatarian",
+   "mediterranean"
+  ],
+  "allergens": [
+   "egg"
+  ],
+  "nutrients": {
+   "calories": 144,
+   "protein": 13,
+   "carbs": 1,
+   "fat": 10,
+   "fiber": 0,
+   "micros": {}
+  },
+  "ingredients": [
+   {
+    "name": "Eggs",
+    "amount": 2,
+    "unit": "",
+    "aisle": "Dairy and eggs"
+   }
+  ],
+  "steps": [
+   "Boil eggs for 9 minutes.",
+   "Cool in cold water and peel."
+  ],
+  "swapTip": null
+ },
+ {
+  "id": "beef-jerky",
+  "name": "Beef jerky",
+  "slots": [
+   "snack"
+  ],
+  "minutes": 1,
+  "needsOven": false,
+  "diets": [
+   "carnivore"
+  ],
+  "allergens": [],
+  "nutrients": {
+   "calories": 160,
+   "protein": 26,
+   "carbs": 6,
+   "fat": 3,
+   "fiber": 0,
+   "micros": {}
+  },
+  "ingredients": [
+   {
+    "name": "Beef jerky",
+    "amount": 50,
+    "unit": "g",
+    "aisle": "Meat and fish"
+   }
+  ],
+  "steps": [
+   "Open and enjoy. Check the label for added sugar."
+  ],
+  "swapTip": null
+ },
+ {
+  "id": "trail-mix",
+  "name": "Nut and fruit mix",
+  "slots": [
+   "snack"
+  ],
+  "minutes": 2,
+  "needsOven": false,
+  "diets": [
+   "vegetarian",
+   "mediterranean",
+   "pescatarian"
+  ],
+  "allergens": [
+   "treeNut"
+  ],
+  "nutrients": {
+   "calories": 200,
+   "protein": 6,
+   "carbs": 18,
+   "fat": 13,
+   "fiber": 3,
+   "micros": {}
+  },
+  "ingredients": [
+   {
+    "name": "Almonds",
+    "amount": 1,
+    "unit": "handful",
+    "aisle": "Pantry"
+   },
+   {
+    "name": "Raisins",
+    "amount": 1,
+    "unit": "tbsp",
+    "aisle": "Pantry"
+   }
+  ],
+  "steps": [
+   "Mix in a small container."
+  ],
+  "swapTip": null
+ },
+ {
+  "id": "cottage-cheese-fruit",
+  "name": "Cottage cheese and fruit",
+  "slots": [
+   "snack",
+   "breakfast"
+  ],
+  "minutes": 3,
+  "needsOven": false,
+  "diets": [
+   "vegetarian",
+   "pescatarian",
+   "mediterranean"
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "nutrients": {
+   "calories": 180,
+   "protein": 15,
+   "carbs": 20,
+   "fat": 5,
+   "fiber": 2,
+   "micros": {}
+  },
+  "ingredients": [
+   {
+    "name": "Cottage cheese",
+    "amount": 0.5,
+    "unit": "cup",
+    "aisle": "Dairy and eggs"
+   },
+   {
+    "name": "Berries",
+    "amount": 0.5,
+    "unit": "cup",
+    "aisle": "Produce"
+   }
+  ],
+  "steps": [
+   "Spoon cottage cheese into a bowl.",
+   "Top with fruit."
+  ],
+  "swapTip": null
+ }
+]

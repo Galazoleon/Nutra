@@ -1,0 +1,221 @@
+[
+ {
+  "id": "goblet-squat",
+  "name": "Goblet squat",
+  "pattern": "squat",
+  "equipment": [
+   "dumbbells",
+   "gym"
+  ],
+  "howTo": "Hold a weight at your chest, sit down between your heels, stand tall."
+ },
+ {
+  "id": "back-squat",
+  "name": "Barbell back squat",
+  "pattern": "squat",
+  "equipment": [
+   "gym"
+  ],
+  "howTo": "Bar on upper back, brace, sit down and back, drive up through the whole foot."
+ },
+ {
+  "id": "bodyweight-squat",
+  "name": "Bodyweight squat",
+  "pattern": "squat",
+  "equipment": [
+   "bodyweight",
+   "dumbbells",
+   "gym"
+  ],
+  "howTo": "Feet shoulder-width, sit back like into a chair, stand up."
+ },
+ {
+  "id": "romanian-deadlift",
+  "name": "Romanian deadlift",
+  "pattern": "hinge",
+  "equipment": [
+   "dumbbells",
+   "gym"
+  ],
+  "howTo": "Soft knees, push hips back with a flat back, feel the hamstrings, stand up."
+ },
+ {
+  "id": "hip-bridge",
+  "name": "Glute bridge",
+  "pattern": "hinge",
+  "equipment": [
+   "bodyweight",
+   "dumbbells",
+   "gym"
+  ],
+  "howTo": "Lie on your back, feet flat, squeeze your glutes to lift hips, lower slowly."
+ },
+ {
+  "id": "trap-bar-deadlift",
+  "name": "Trap bar deadlift",
+  "pattern": "hinge",
+  "equipment": [
+   "gym"
+  ],
+  "howTo": "Stand inside the bar, brace, push the floor away."
+ },
+ {
+  "id": "reverse-lunge",
+  "name": "Reverse lunge",
+  "pattern": "lunge",
+  "equipment": [
+   "bodyweight",
+   "dumbbells",
+   "gym"
+  ],
+  "howTo": "Step back, lower the back knee toward the floor, push through the front foot."
+ },
+ {
+  "id": "step-up",
+  "name": "Step-up",
+  "pattern": "lunge",
+  "equipment": [
+   "bodyweight",
+   "dumbbells",
+   "gym"
+  ],
+  "howTo": "Step onto a sturdy box or stair, stand tall, step down with control."
+ },
+ {
+  "id": "push-up",
+  "name": "Push-up",
+  "pattern": "pushHorizontal",
+  "equipment": [
+   "bodyweight",
+   "dumbbells",
+   "gym"
+  ],
+  "howTo": "Hands under shoulders, body in a line, lower your chest, push back up. Knees down is fine."
+ },
+ {
+  "id": "db-bench",
+  "name": "Dumbbell bench press",
+  "pattern": "pushHorizontal",
+  "equipment": [
+   "dumbbells",
+   "gym"
+  ],
+  "howTo": "Lie on a bench, press dumbbells up over your chest, lower with control."
+ },
+ {
+  "id": "bench-press",
+  "name": "Barbell bench press",
+  "pattern": "pushHorizontal",
+  "equipment": [
+   "gym"
+  ],
+  "howTo": "Eyes under the bar, lower to mid-chest, press up. Use a spotter."
+ },
+ {
+  "id": "pike-push-up",
+  "name": "Pike push-up",
+  "pattern": "pushVertical",
+  "equipment": [
+   "bodyweight"
+  ],
+  "howTo": "Hips high, bend elbows to bring your head toward the floor, press back."
+ },
+ {
+  "id": "db-shoulder-press",
+  "name": "Dumbbell shoulder press",
+  "pattern": "pushVertical",
+  "equipment": [
+   "dumbbells",
+   "gym"
+  ],
+  "howTo": "Press dumbbells overhead without arching your back."
+ },
+ {
+  "id": "db-row",
+  "name": "One-arm dumbbell row",
+  "pattern": "pullHorizontal",
+  "equipment": [
+   "dumbbells",
+   "gym"
+  ],
+  "howTo": "Hand on a bench, pull the dumbbell to your hip, lower slowly."
+ },
+ {
+  "id": "cable-row",
+  "name": "Seated cable row",
+  "pattern": "pullHorizontal",
+  "equipment": [
+   "gym"
+  ],
+  "howTo": "Sit tall, pull the handle to your belly, squeeze shoulder blades."
+ },
+ {
+  "id": "towel-row",
+  "name": "Table or towel row",
+  "pattern": "pullHorizontal",
+  "equipment": [
+   "bodyweight"
+  ],
+  "howTo": "Under a sturdy table, pull your chest up to the edge. Or pull a towel looped around a door handle."
+ },
+ {
+  "id": "lat-pulldown",
+  "name": "Lat pulldown",
+  "pattern": "pullVertical",
+  "equipment": [
+   "gym"
+  ],
+  "howTo": "Pull the bar to your upper chest, elbows down and back."
+ },
+ {
+  "id": "band-pulldown",
+  "name": "Band or doorway pull",
+  "pattern": "pullVertical",
+  "equipment": [
+   "bodyweight",
+   "dumbbells"
+  ],
+  "howTo": "Pull a band down from overhead, or do slow doorway pulls."
+ },
+ {
+  "id": "plank",
+  "name": "Plank",
+  "pattern": "core",
+  "equipment": [
+   "bodyweight",
+   "dumbbells",
+   "gym"
+  ],
+  "howTo": "Forearms down, body straight, breathe. Hold 20 to 40 seconds."
+ },
+ {
+  "id": "dead-bug",
+  "name": "Dead bug",
+  "pattern": "core",
+  "equipment": [
+   "bodyweight",
+   "dumbbells",
+   "gym"
+  ],
+  "howTo": "On your back, lower opposite arm and leg slowly while keeping your back flat."
+ },
+ {
+  "id": "farmer-carry",
+  "name": "Farmer carry",
+  "pattern": "carry",
+  "equipment": [
+   "dumbbells",
+   "gym"
+  ],
+  "howTo": "Hold heavy weights at your sides and walk tall for 30 to 40 steps."
+ },
+ {
+  "id": "suitcase-carry",
+  "name": "Bag carry",
+  "pattern": "carry",
+  "equipment": [
+   "bodyweight"
+  ],
+  "howTo": "Carry a full bag or backpack in one hand, walk tall, switch hands."
+ }
+]

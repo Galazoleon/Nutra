@@ -1,0 +1,160 @@
+[
+ {
+  "id": "protein-amount",
+  "question": "How much protein do I need?",
+  "keywords": [
+   "protein",
+   "how much protein"
+  ],
+  "answer": "Most adults do well with some protein at each meal: eggs, yogurt, beans, tofu, fish or meat. If you train hard, a little more helps recovery. Your starting number in Nutra is an estimate, not a rule."
+ },
+ {
+  "id": "fiber",
+  "question": "How can I eat more fiber?",
+  "keywords": [
+   "fiber",
+   "fibre",
+   "digestion",
+   "constipation"
+  ],
+  "answer": "Add one plant at a time: oats at breakfast, beans in a soup, fruit as a snack. Increase slowly and drink water alongside so your gut can adjust."
+ },
+ {
+  "id": "snacks",
+  "question": "What's a good snack?",
+  "keywords": [
+   "snack",
+   "snacks",
+   "hungry"
+  ],
+  "answer": "A snack that pairs protein or fat with fiber keeps you full longer: an apple with peanut butter, yogurt with fruit, hummus with carrots, or a handful of nuts."
+ },
+ {
+  "id": "breakfast",
+  "question": "Do I need breakfast?",
+  "keywords": [
+   "breakfast",
+   "skip",
+   "morning"
+  ],
+  "answer": "Not everyone does. Some people feel better eating in the morning, others later. What matters most is how you feel and how your whole day comes together."
+ },
+ {
+  "id": "water",
+  "question": "How much water should I drink?",
+  "keywords": [
+   "water",
+   "hydration",
+   "drink",
+   "thirsty"
+  ],
+  "answer": "Needs vary with size, weather and activity. A simple guide is pale yellow urine and drinking when thirsty. Food, tea and coffee count too."
+ },
+ {
+  "id": "sleep",
+  "question": "Can food help me sleep?",
+  "keywords": [
+   "sleep",
+   "tired",
+   "night",
+   "insomnia"
+  ],
+  "answer": "A regular meal pattern, less caffeine after midday and not going to bed very full or very hungry can help. Sleep habits matter more than any single food."
+ },
+ {
+  "id": "sugar",
+  "question": "Is sugar bad?",
+  "keywords": [
+   "sugar",
+   "sweet",
+   "sweets",
+   "dessert"
+  ],
+  "answer": "No food is forbidden. Added sugar is easiest to enjoy alongside a meal rather than alone. Swapping one sugary drink for water is a small, easy change."
+ },
+ {
+  "id": "carbs",
+  "question": "Are carbs bad?",
+  "keywords": [
+   "carbs",
+   "carb",
+   "bread",
+   "rice",
+   "pasta"
+  ],
+  "answer": "Carbs are the body's main fuel, especially for exercise. Whole grains, fruit, beans and potatoes also bring fiber and vitamins. Pairing carbs with protein keeps energy steady."
+ },
+ {
+  "id": "after-workout",
+  "question": "What should I eat after a workout?",
+  "keywords": [
+   "workout",
+   "after",
+   "recovery",
+   "training",
+   "gym"
+  ],
+  "answer": "A meal or snack with protein and carbs within a few hours helps recovery: yogurt and fruit, a chicken and rice bowl, or eggs on toast."
+ },
+ {
+  "id": "eating-out",
+  "question": "How do I eat out and stay on track?",
+  "keywords": [
+   "restaurant",
+   "eating",
+   "out",
+   "takeaway",
+   "takeout"
+  ],
+  "answer": "Enjoy it. Look for a dish with protein and vegetables, share a side if you like, and stop when you're comfortably full. One meal never undoes your progress."
+ },
+ {
+  "id": "plateau",
+  "question": "My weight isn't changing. What now?",
+  "keywords": [
+   "plateau",
+   "stuck",
+   "weight",
+   "changing",
+   "scale"
+  ],
+  "answer": "Day-to-day weight jumps around with water and salt. Nutra looks at two-week trends. If things are stable for longer, review your goal in Profile, or simply enjoy maintaining."
+ },
+ {
+  "id": "cravings",
+  "question": "How do I handle cravings?",
+  "keywords": [
+   "craving",
+   "cravings",
+   "hungry",
+   "urge"
+  ],
+  "answer": "Cravings are normal. Eating regular meals with protein and fiber helps. If you want the food, have a portion you enjoy, without guilt."
+ },
+ {
+  "id": "vegetarian-protein",
+  "question": "How do vegetarians get protein?",
+  "keywords": [
+   "vegetarian",
+   "vegetarians",
+   "vegan",
+   "plant",
+   "plants",
+   "tofu",
+   "beans"
+  ],
+  "answer": "Beans, lentils, tofu, tempeh, eggs, dairy, nuts and seeds all bring protein. Having a few of these through the day covers most needs."
+ },
+ {
+  "id": "meal-prep",
+  "question": "How do I start meal prep?",
+  "keywords": [
+   "prep",
+   "batch",
+   "plan",
+   "planning",
+   "cook"
+  ],
+  "answer": "Start small: cook one grain, one protein and one tray of vegetables on a quiet day. Mix them into different meals through the week. The Meals section can build a shopping list."
+ }
+]

@@ -1,0 +1,860 @@
+[
+ {
+  "id": "lose-weight",
+  "title": "Lose weight steadily",
+  "category": "body",
+  "blurb": "A slow, steady pace with filling meals.",
+  "direction": "lose",
+  "calorieAdjustPercent": -15,
+  "proteinPerKg": 1.6,
+  "modules": [
+   "energy",
+   "protein",
+   "weightTrend",
+   "fiber"
+  ],
+  "gentleModules": [
+   "meals",
+   "protein",
+   "plants",
+   "tip"
+  ],
+  "isCombatSport": false,
+  "weeks": null,
+  "isPopular": true
+ },
+ {
+  "id": "lose-weight-gently",
+  "title": "Lose weight gently",
+  "category": "body",
+  "blurb": "An even smaller change, focused on habits.",
+  "direction": "lose",
+  "calorieAdjustPercent": -10,
+  "proteinPerKg": 1.4,
+  "modules": [
+   "energy",
+   "plants",
+   "weightTrend",
+   "tip"
+  ],
+  "gentleModules": [
+   "meals",
+   "plants",
+   "foodGroups",
+   "tip"
+  ],
+  "isCombatSport": false,
+  "weeks": null,
+  "isPopular": false
+ },
+ {
+  "id": "build-muscle",
+  "title": "Build muscle",
+  "category": "body",
+  "blurb": "Enough food and protein to grow stronger.",
+  "direction": "gain",
+  "calorieAdjustPercent": 8,
+  "proteinPerKg": 1.8,
+  "modules": [
+   "protein",
+   "energy",
+   "training",
+   "weightTrend"
+  ],
+  "gentleModules": [
+   "protein",
+   "training",
+   "meals",
+   "tip"
+  ],
+  "isCombatSport": false,
+  "weeks": null,
+  "isPopular": true
+ },
+ {
+  "id": "gain-weight",
+  "title": "Gain weight",
+  "category": "body",
+  "blurb": "Add energy with easy, satisfying extras.",
+  "direction": "gain",
+  "calorieAdjustPercent": 12,
+  "proteinPerKg": 1.4,
+  "modules": [
+   "energy",
+   "meals",
+   "protein",
+   "weightTrend"
+  ],
+  "gentleModules": [
+   "meals",
+   "protein",
+   "foodGroups",
+   "tip"
+  ],
+  "isCombatSport": false,
+  "weeks": null,
+  "isPopular": false
+ },
+ {
+  "id": "maintain",
+  "title": "Keep my weight steady",
+  "category": "body",
+  "blurb": "Eat well without changing your weight.",
+  "direction": "maintain",
+  "calorieAdjustPercent": 0,
+  "proteinPerKg": 1.2,
+  "modules": [
+   "energy",
+   "macros",
+   "foodGroups",
+   "tip"
+  ],
+  "gentleModules": [
+   "meals",
+   "foodGroups",
+   "plants",
+   "tip"
+  ],
+  "isCombatSport": false,
+  "weeks": null,
+  "isPopular": true
+ },
+ {
+  "id": "recomposition",
+  "title": "Lose fat, keep muscle",
+  "category": "body",
+  "blurb": "Small change in energy, plenty of protein and training.",
+  "direction": "lose",
+  "calorieAdjustPercent": -8,
+  "proteinPerKg": 2.0,
+  "modules": [
+   "protein",
+   "energy",
+   "training",
+   "weightTrend"
+  ],
+  "gentleModules": [
+   "protein",
+   "training",
+   "meals",
+   "tip"
+  ],
+  "isCombatSport": false,
+  "weeks": null,
+  "isPopular": false
+ },
+ {
+  "id": "running",
+  "title": "Running and endurance",
+  "category": "sport",
+  "blurb": "Fuel for longer runs and good recovery.",
+  "direction": "maintain",
+  "calorieAdjustPercent": 5,
+  "proteinPerKg": 1.4,
+  "modules": [
+   "energy",
+   "macros",
+   "training",
+   "tip"
+  ],
+  "gentleModules": [
+   "meals",
+   "training",
+   "foodGroups",
+   "tip"
+  ],
+  "isCombatSport": false,
+  "weeks": null,
+  "isPopular": true
+ },
+ {
+  "id": "cycling",
+  "title": "Cycling",
+  "category": "sport",
+  "blurb": "Carbs for the ride, protein for the legs.",
+  "direction": "maintain",
+  "calorieAdjustPercent": 5,
+  "proteinPerKg": 1.4,
+  "modules": [
+   "energy",
+   "macros",
+   "training",
+   "tip"
+  ],
+  "gentleModules": [
+   "meals",
+   "training",
+   "foodGroups",
+   "tip"
+  ],
+  "isCombatSport": false,
+  "weeks": null,
+  "isPopular": false
+ },
+ {
+  "id": "swimming",
+  "title": "Swimming",
+  "category": "sport",
+  "blurb": "Steady energy for the pool.",
+  "direction": "maintain",
+  "calorieAdjustPercent": 5,
+  "proteinPerKg": 1.4,
+  "modules": [
+   "energy",
+   "macros",
+   "training",
+   "tip"
+  ],
+  "gentleModules": [
+   "meals",
+   "training",
+   "foodGroups",
+   "tip"
+  ],
+  "isCombatSport": false,
+  "weeks": null,
+  "isPopular": false
+ },
+ {
+  "id": "team-sports",
+  "title": "Team sports",
+  "category": "sport",
+  "blurb": "Football, basketball and more: fuel for game day.",
+  "direction": "maintain",
+  "calorieAdjustPercent": 5,
+  "proteinPerKg": 1.5,
+  "modules": [
+   "energy",
+   "macros",
+   "training",
+   "tip"
+  ],
+  "gentleModules": [
+   "meals",
+   "training",
+   "protein",
+   "tip"
+  ],
+  "isCombatSport": false,
+  "weeks": null,
+  "isPopular": false
+ },
+ {
+  "id": "strength-sports",
+  "title": "Lifting and strength",
+  "category": "sport",
+  "blurb": "Protein and energy for heavy training.",
+  "direction": "maintain",
+  "calorieAdjustPercent": 5,
+  "proteinPerKg": 1.8,
+  "modules": [
+   "protein",
+   "energy",
+   "training",
+   "macros"
+  ],
+  "gentleModules": [
+   "protein",
+   "training",
+   "meals",
+   "tip"
+  ],
+  "isCombatSport": false,
+  "weeks": null,
+  "isPopular": false
+ },
+ {
+  "id": "combat-sports",
+  "title": "Combat sports",
+  "category": "sport",
+  "blurb": "Boxing, martial arts and wrestling, without risky cuts.",
+  "direction": "maintain",
+  "calorieAdjustPercent": 0,
+  "proteinPerKg": 1.8,
+  "modules": [
+   "energy",
+   "protein",
+   "training",
+   "tip"
+  ],
+  "gentleModules": [
+   "meals",
+   "protein",
+   "training",
+   "tip"
+  ],
+  "isCombatSport": true,
+  "weeks": null,
+  "isPopular": false
+ },
+ {
+  "id": "yoga-mobility",
+  "title": "Yoga and mobility",
+  "category": "sport",
+  "blurb": "Light, balanced eating around practice.",
+  "direction": "maintain",
+  "calorieAdjustPercent": 0,
+  "proteinPerKg": 1.2,
+  "modules": [
+   "foodGroups",
+   "plants",
+   "training",
+   "tip"
+  ],
+  "gentleModules": [
+   "foodGroups",
+   "plants",
+   "training",
+   "tip"
+  ],
+  "isCombatSport": false,
+  "weeks": null,
+  "isPopular": false
+ },
+ {
+  "id": "hiking",
+  "title": "Hiking and outdoors",
+  "category": "sport",
+  "blurb": "Snacks and meals for long days outside.",
+  "direction": "maintain",
+  "calorieAdjustPercent": 5,
+  "proteinPerKg": 1.3,
+  "modules": [
+   "energy",
+   "meals",
+   "training",
+   "tip"
+  ],
+  "gentleModules": [
+   "meals",
+   "training",
+   "foodGroups",
+   "tip"
+  ],
+  "isCombatSport": false,
+  "weeks": null,
+  "isPopular": false
+ },
+ {
+  "id": "more-energy",
+  "title": "More energy",
+  "category": "health",
+  "blurb": "Steady meals that keep you going.",
+  "direction": "none",
+  "calorieAdjustPercent": 0,
+  "proteinPerKg": 1.2,
+  "modules": [
+   "meals",
+   "fiber",
+   "protein",
+   "tip"
+  ],
+  "gentleModules": [
+   "meals",
+   "protein",
+   "fiber",
+   "tip"
+  ],
+  "isCombatSport": false,
+  "weeks": null,
+  "isPopular": true
+ },
+ {
+  "id": "better-sleep",
+  "title": "Better sleep",
+  "category": "health",
+  "blurb": "Meal timing and foods that help you wind down.",
+  "direction": "none",
+  "calorieAdjustPercent": 0,
+  "proteinPerKg": 1.0,
+  "modules": [
+   "meals",
+   "tip",
+   "foodGroups"
+  ],
+  "gentleModules": [
+   "meals",
+   "tip",
+   "foodGroups"
+  ],
+  "isCombatSport": false,
+  "weeks": null,
+  "isPopular": false
+ },
+ {
+  "id": "digestion",
+  "title": "Better digestion",
+  "category": "health",
+  "blurb": "More fiber, more variety, gentle changes.",
+  "direction": "none",
+  "calorieAdjustPercent": 0,
+  "proteinPerKg": 1.0,
+  "modules": [
+   "fiber",
+   "plants",
+   "meals",
+   "tip"
+  ],
+  "gentleModules": [
+   "fiber",
+   "plants",
+   "meals",
+   "tip"
+  ],
+  "isCombatSport": false,
+  "weeks": null,
+  "isPopular": false
+ },
+ {
+  "id": "heart-health",
+  "title": "Heart health",
+  "category": "health",
+  "blurb": "More plants, fish and healthy fats.",
+  "direction": "none",
+  "calorieAdjustPercent": 0,
+  "proteinPerKg": 1.0,
+  "modules": [
+   "plants",
+   "fiber",
+   "foodGroups",
+   "tip"
+  ],
+  "gentleModules": [
+   "plants",
+   "fiber",
+   "foodGroups",
+   "tip"
+  ],
+  "isCombatSport": false,
+  "weeks": null,
+  "isPopular": false
+ },
+ {
+  "id": "steady-blood-sugar",
+  "title": "Steadier blood sugar",
+  "category": "health",
+  "blurb": "Pair carbs with protein and fiber.",
+  "direction": "none",
+  "calorieAdjustPercent": 0,
+  "proteinPerKg": 1.2,
+  "modules": [
+   "fiber",
+   "protein",
+   "meals",
+   "tip"
+  ],
+  "gentleModules": [
+   "fiber",
+   "protein",
+   "meals",
+   "tip"
+  ],
+  "isCombatSport": false,
+  "weeks": null,
+  "isPopular": false
+ },
+ {
+  "id": "bone-health",
+  "title": "Strong bones",
+  "category": "health",
+  "blurb": "Calcium, vitamin D and movement.",
+  "direction": "none",
+  "calorieAdjustPercent": 0,
+  "proteinPerKg": 1.2,
+  "modules": [
+   "foodGroups",
+   "training",
+   "tip"
+  ],
+  "gentleModules": [
+   "foodGroups",
+   "training",
+   "tip"
+  ],
+  "isCombatSport": false,
+  "weeks": null,
+  "isPopular": false
+ },
+ {
+  "id": "more-plants",
+  "title": "Eat more plants",
+  "category": "health",
+  "blurb": "More fruit, vegetables, beans and grains.",
+  "direction": "none",
+  "calorieAdjustPercent": 0,
+  "proteinPerKg": 1.0,
+  "modules": [
+   "plants",
+   "fiber",
+   "foodGroups",
+   "tip"
+  ],
+  "gentleModules": [
+   "plants",
+   "fiber",
+   "foodGroups",
+   "tip"
+  ],
+  "isCombatSport": false,
+  "weeks": null,
+  "isPopular": true
+ },
+ {
+  "id": "less-sugar",
+  "title": "Less added sugar",
+  "category": "health",
+  "blurb": "Simple swaps, no banned foods.",
+  "direction": "none",
+  "calorieAdjustPercent": 0,
+  "proteinPerKg": 1.0,
+  "modules": [
+   "meals",
+   "fiber",
+   "tip"
+  ],
+  "gentleModules": [
+   "meals",
+   "fiber",
+   "tip"
+  ],
+  "isCombatSport": false,
+  "weeks": null,
+  "isPopular": false
+ },
+ {
+  "id": "hydration",
+  "title": "Drink more water",
+  "category": "health",
+  "blurb": "Small reminders to sip through the day.",
+  "direction": "none",
+  "calorieAdjustPercent": 0,
+  "proteinPerKg": 1.0,
+  "modules": [
+   "meals",
+   "tip"
+  ],
+  "gentleModules": [
+   "meals",
+   "tip"
+  ],
+  "isCombatSport": false,
+  "weeks": null,
+  "isPopular": false
+ },
+ {
+  "id": "healthy-aging",
+  "title": "Healthy aging",
+  "category": "health",
+  "blurb": "Protein, bones and variety as you get older.",
+  "direction": "none",
+  "calorieAdjustPercent": 0,
+  "proteinPerKg": 1.2,
+  "modules": [
+   "protein",
+   "foodGroups",
+   "plants",
+   "tip"
+  ],
+  "gentleModules": [
+   "protein",
+   "foodGroups",
+   "plants",
+   "tip"
+  ],
+  "isCombatSport": false,
+  "weeks": null,
+  "isPopular": false
+ },
+ {
+  "id": "four-week-reset",
+  "title": "4-week fresh start",
+  "category": "program",
+  "blurb": "One small habit a week for a month.",
+  "direction": "none",
+  "calorieAdjustPercent": 0,
+  "proteinPerKg": 1.2,
+  "modules": [
+   "meals",
+   "plants",
+   "tip"
+  ],
+  "gentleModules": [
+   "meals",
+   "plants",
+   "tip"
+  ],
+  "isCombatSport": false,
+  "weeks": 4,
+  "isPopular": false
+ },
+ {
+  "id": "eight-week-strength",
+  "title": "8-week strength block",
+  "category": "program",
+  "blurb": "Train and eat for strength for two months.",
+  "direction": "maintain",
+  "calorieAdjustPercent": 5,
+  "proteinPerKg": 1.8,
+  "modules": [
+   "training",
+   "protein",
+   "energy",
+   "tip"
+  ],
+  "gentleModules": [
+   "training",
+   "protein",
+   "meals",
+   "tip"
+  ],
+  "isCombatSport": false,
+  "weeks": 8,
+  "isPopular": false
+ },
+ {
+  "id": "twelve-week-steady-loss",
+  "title": "12-week steady change",
+  "category": "program",
+  "blurb": "A gentle, steady three months.",
+  "direction": "lose",
+  "calorieAdjustPercent": -12,
+  "proteinPerKg": 1.6,
+  "modules": [
+   "energy",
+   "protein",
+   "weightTrend",
+   "tip"
+  ],
+  "gentleModules": [
+   "meals",
+   "protein",
+   "plants",
+   "tip"
+  ],
+  "isCombatSport": false,
+  "weeks": 12,
+  "isPopular": false
+ },
+ {
+  "id": "thirty-day-cooking",
+  "title": "30 days of home cooking",
+  "category": "program",
+  "blurb": "Cook more of your own meals for a month.",
+  "direction": "none",
+  "calorieAdjustPercent": 0,
+  "proteinPerKg": 1.0,
+  "modules": [
+   "meals",
+   "foodGroups",
+   "tip"
+  ],
+  "gentleModules": [
+   "meals",
+   "foodGroups",
+   "tip"
+  ],
+  "isCombatSport": false,
+  "weeks": 4,
+  "isPopular": false
+ },
+ {
+  "id": "custom",
+  "title": "My own goal",
+  "category": "life",
+  "blurb": "Set your own focus. Nutra keeps things balanced.",
+  "direction": "none",
+  "calorieAdjustPercent": 0,
+  "proteinPerKg": 1.2,
+  "modules": [
+   "meals",
+   "foodGroups",
+   "tip"
+  ],
+  "gentleModules": [
+   "meals",
+   "foodGroups",
+   "tip"
+  ],
+  "isCombatSport": false,
+  "weeks": null,
+  "isPopular": false
+ },
+ {
+  "id": "family-meals",
+  "title": "Feed my family",
+  "category": "life",
+  "blurb": "Meals the whole household can share.",
+  "direction": "none",
+  "calorieAdjustPercent": 0,
+  "proteinPerKg": 1.0,
+  "modules": [
+   "meals",
+   "foodGroups",
+   "tip"
+  ],
+  "gentleModules": [
+   "meals",
+   "foodGroups",
+   "tip"
+  ],
+  "isCombatSport": false,
+  "weeks": null,
+  "isPopular": false
+ },
+ {
+  "id": "my-culture",
+  "title": "Eat the food I grew up with",
+  "category": "life",
+  "blurb": "Keep your cuisine, eat it your way.",
+  "direction": "none",
+  "calorieAdjustPercent": 0,
+  "proteinPerKg": 1.0,
+  "modules": [
+   "meals",
+   "foodGroups",
+   "plants",
+   "tip"
+  ],
+  "gentleModules": [
+   "meals",
+   "foodGroups",
+   "plants",
+   "tip"
+  ],
+  "isCombatSport": false,
+  "weeks": null,
+  "isPopular": false
+ },
+ {
+  "id": "budget",
+  "title": "Eat well on a budget",
+  "category": "life",
+  "blurb": "Cheaper staples that still nourish.",
+  "direction": "none",
+  "calorieAdjustPercent": 0,
+  "proteinPerKg": 1.0,
+  "modules": [
+   "meals",
+   "foodGroups",
+   "tip"
+  ],
+  "gentleModules": [
+   "meals",
+   "foodGroups",
+   "tip"
+  ],
+  "isCombatSport": false,
+  "weeks": null,
+  "isPopular": false
+ },
+ {
+  "id": "cook-more",
+  "title": "Learn to cook",
+  "category": "life",
+  "blurb": "Simple recipes with step-by-step help.",
+  "direction": "none",
+  "calorieAdjustPercent": 0,
+  "proteinPerKg": 1.0,
+  "modules": [
+   "meals",
+   "tip",
+   "foodGroups"
+  ],
+  "gentleModules": [
+   "meals",
+   "tip",
+   "foodGroups"
+  ],
+  "isCombatSport": false,
+  "weeks": null,
+  "isPopular": false
+ },
+ {
+  "id": "meal-prep",
+  "title": "Prep meals ahead",
+  "category": "life",
+  "blurb": "Batch cooking for busy weeks.",
+  "direction": "none",
+  "calorieAdjustPercent": 0,
+  "proteinPerKg": 1.2,
+  "modules": [
+   "meals",
+   "protein",
+   "tip"
+  ],
+  "gentleModules": [
+   "meals",
+   "protein",
+   "tip"
+  ],
+  "isCombatSport": false,
+  "weeks": null,
+  "isPopular": false
+ },
+ {
+  "id": "eat-out",
+  "title": "Eat out smarter",
+  "category": "life",
+  "blurb": "Enjoy restaurants and takeaway with easy tips.",
+  "direction": "none",
+  "calorieAdjustPercent": 0,
+  "proteinPerKg": 1.0,
+  "modules": [
+   "meals",
+   "foodGroups",
+   "tip"
+  ],
+  "gentleModules": [
+   "meals",
+   "foodGroups",
+   "tip"
+  ],
+  "isCombatSport": false,
+  "weeks": null,
+  "isPopular": false
+ },
+ {
+  "id": "explore-world",
+  "title": "Explore world foods",
+  "category": "explore",
+  "blurb": "Discover dishes from around the world.",
+  "direction": "none",
+  "calorieAdjustPercent": 0,
+  "proteinPerKg": 1.0,
+  "modules": [
+   "meals",
+   "plants",
+   "tip"
+  ],
+  "gentleModules": [
+   "meals",
+   "plants",
+   "tip"
+  ],
+  "isCombatSport": false,
+  "weeks": null,
+  "isPopular": false
+ },
+ {
+  "id": "just-track",
+  "title": "Just see what I eat",
+  "category": "explore",
+  "blurb": "No goal yet. Log and learn.",
+  "direction": "none",
+  "calorieAdjustPercent": 0,
+  "proteinPerKg": 1.0,
+  "modules": [
+   "meals",
+   "foodGroups",
+   "tip"
+  ],
+  "gentleModules": [
+   "meals",
+   "foodGroups",
+   "tip"
+  ],
+  "isCombatSport": false,
+  "weeks": null,
+  "isPopular": true
+ }
+]

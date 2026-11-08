@@ -1,0 +1,98 @@
+[
+ {
+  "id": "lower-back",
+  "name": "Lower back",
+  "moves": [
+   "Walking 10 minutes",
+   "Cat-cow stretch, slow",
+   "Glute bridge, small range",
+   "Child's pose, breathing slowly"
+  ],
+  "redFlags": [
+   "Pain that wakes you at night",
+   "Numbness, tingling or weakness",
+   "Swelling, redness or heat",
+   "A fall, crash or pop at the time of injury"
+  ]
+ },
+ {
+  "id": "knee",
+  "name": "Knee",
+  "moves": [
+   "Straight-leg raise",
+   "Wall sit, high and short",
+   "Step-ups on a low step",
+   "Calf raises"
+  ],
+  "redFlags": [
+   "Pain that wakes you at night",
+   "Numbness, tingling or weakness",
+   "Swelling, redness or heat",
+   "A fall, crash or pop at the time of injury"
+  ]
+ },
+ {
+  "id": "shoulder",
+  "name": "Shoulder",
+  "moves": [
+   "Pendulum swings",
+   "Wall slides",
+   "Band pull-aparts, light",
+   "Doorway chest stretch, gentle"
+  ],
+  "redFlags": [
+   "Pain that wakes you at night",
+   "Numbness, tingling or weakness",
+   "Swelling, redness or heat",
+   "A fall, crash or pop at the time of injury"
+  ]
+ },
+ {
+  "id": "ankle",
+  "name": "Ankle",
+  "moves": [
+   "Ankle circles",
+   "Alphabet with your toes",
+   "Calf raises, two feet",
+   "Balance on one foot near a wall"
+  ],
+  "redFlags": [
+   "Pain that wakes you at night",
+   "Numbness, tingling or weakness",
+   "Swelling, redness or heat",
+   "A fall, crash or pop at the time of injury"
+  ]
+ },
+ {
+  "id": "neck",
+  "name": "Neck",
+  "moves": [
+   "Chin tucks",
+   "Slow side tilts",
+   "Shoulder rolls",
+   "Gentle turns left and right"
+  ],
+  "redFlags": [
+   "Pain that wakes you at night",
+   "Numbness, tingling or weakness",
+   "Swelling, redness or heat",
+   "A fall, crash or pop at the time of injury"
+  ]
+ },
+ {
+  "id": "hip",
+  "name": "Hip",
+  "moves": [
+   "Clamshells",
+   "Glute bridge",
+   "Hip flexor stretch, gentle",
+   "Side-lying leg raise"
+  ],
+  "redFlags": [
+   "Pain that wakes you at night",
+   "Numbness, tingling or weakness",
+   "Swelling, redness or heat",
+   "A fall, crash or pop at the time of injury"
+  ]
+ }
+]
